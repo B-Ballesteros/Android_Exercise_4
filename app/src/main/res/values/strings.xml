@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">M1_JBBM_EJER_Futbol</string>
+
+    <string name="text_title">Equipo de futbol</string>
+    <string name="butoon_configurar">Configurar Equipo</string>
+    <string name="button_agregar">Agregar Jugador</string>
+    <string name="button_guardar">Guardar</string>
+
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_dt">Director Técnico</string>
+    <string name="hint_equipo">Nombre de equipo</string>
+    <string name="hint_Nacionalidad">Nacionalidad</string>
+    <string name="text_posicion">Posición en la que juega</string>
+
+    <string-array name="posiciones_array">
+        <item>Portero</item>
+        <item>Defensa</item>
+        <item>Mediocampista</item>
+        <item>Volante</item>
+        <item>Puntero</item>
+        <item>Extremo</item>
+        <item>Delantero</item>
+    </string-array>
+
+    <string-array name="ligas_array">
+        <item>Premier League</item>
+        <item>LaLiga</item>
+        <item>Bundesliga</item>
+        <item>Liga Mx</item>
+        <item>Serie A</item>
+    </string-array>
+
+</resources>
